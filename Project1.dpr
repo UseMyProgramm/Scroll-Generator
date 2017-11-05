@@ -1,3 +1,4 @@
+                                                                //Test
 USES Windows;
 TYPE info = record                                              //Вода - 1 Огонь - 2 Ветер - 3
             name:String;
